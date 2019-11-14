@@ -1,7 +1,7 @@
 初步目标：
 一、论文查找和通读，理解王楷群的选题着手点 ETA:2019.11.16
 
-1、(NOT FOUND,BLUE)Oncostatin M upregulates HIF-1α in breast tumor associated macrophages independent of intracellular oxygen concentration
+1、Oncostatin M upregulates HIF-1α in breast tumor associated macrophages independent of intracellular oxygen concentration(BLUE)
 Author：Richa Shrivastava
 Varsha Singh
 Mohammad Asif
@@ -9,7 +9,7 @@ Mahendra Pal
 Singh Negi
 Smrati Bhadauria
 
-2、(FOUND,BLUE)LDH-A regulates the tumor microenvironment via HIF-signaling and modulates the immune response
+2、LDH-A regulates the tumor microenvironment via HIF-signaling and modulates the immune response (BLUE)
 Inna Serganova,
 Ivan J. Cohen,
 Kiranmayi Vemuri,
@@ -22,6 +22,6 @@ Jaya Satagopan,
 Jason A. Koutcher,
 Ronald Blasberg
 
-3、(FOUND,RARE)Oxygen-dependent regulation of immune checkpoint mechanisms
+3、Oxygen-dependent regulation of immune checkpoint mechanisms	(RARE)
 
 二、建立自己的着手点、初步仿真模型，补充CC3D、细胞生物学有关必要知识 ETA:2019.11.17
